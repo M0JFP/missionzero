@@ -1,5 +1,5 @@
 from sense_emu import SenseHat
-sense = Sensehat()
+sense = SenseHat()
 sleep 25
 r = 255
 g = 184
